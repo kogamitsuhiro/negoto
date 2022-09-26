@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    negoto (0.1.0)
+    negoto (0.1.1)
 
 GEM
   remote: https://rubygems.org/
