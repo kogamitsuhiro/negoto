@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ['kogamitsuhiro']
   spec.email = ['utirn.ame@gmail.com']
 
-  spec.summary = 'sleeping talk'
-  spec.description = 'sleeping talk'
+  spec.summary = 'This gem generate random string like sleeping talk.'
+  spec.description = 'This gem generate random string like sleeping talk.'
   spec.homepage = 'https://github.com/kogamitsuhiro/negoto'
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 2.6.0'
